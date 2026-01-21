@@ -1,0 +1,66 @@
+Day 1: Introduction to Machine Learning
+•	Understanding what Machine Learning is
+•	Why Machine Learning is needed
+•	Types of ML: Supervised, Unsupervised, Reinforcement (overview)
+•	Basic ML workflow (problem → data → model → prediction)
+•	Task 1: Write a simple definition of ML in your own words
+•	Task 2: Identify one real-life problem that can be solved using ML
+•	Task 3: Define the problem statement, input data, and expected output for that problem
+
+
+📅 Day 1 – Machine Learning Fundamentals
+Concepts Covered
+
+What Machine Learning is:
+Learning patterns from historical data to make predictions on new data.
+
+Why Machine Learning is needed:
+Rule-based systems fail when:
+
+Relationships are non-linear
+
+Data volume is large
+
+Rules are dynamic or unknown
+
+Types of Machine Learning:
+
+Supervised Learning: Labeled data (used in this project)
+
+Unsupervised Learning: Pattern discovery
+
+Reinforcement Learning: Reward-based learning
+
+Machine Learning Workflow:
+
+Problem Definition
+→ Data Collection
+→ Data Cleaning
+→ Feature Selection
+→ Model Training
+→ Evaluation
+→ Prediction
+
+Tasks and Execution
+
+Task 1: Define ML
+
+Created a concise definition explaining learning from data instead of rules.
+
+Task 2: Identify Real-World Problem
+
+Selected house price prediction based on relevance and applicability.
+
+Task 3: Define Inputs and Output
+
+Inputs: house features
+
+Output: predicted price
+
+Validation
+
+Confirmed the problem fits regression requirements.
+
+Confirmed data availability.
+
+
