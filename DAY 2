@@ -1,0 +1,61 @@
+Day 2: Dataset Collection & Understanding
+•	What is data and dataset
+•	Features and target variable
+•	Types of datasets: structured and unstructured
+•	Common dataset formats (CSV)
+•	Task 1: Search and download a dataset related to Day 1 problem
+•	Task 2: Identify features and target column
+•	Task 3: Write observations about dataset size, columns, and possible issues
+
+
+📅 Day 2 – Dataset Collection & Understanding
+Concepts Covered
+
+Data vs dataset
+
+Features vs target
+
+Structured vs unstructured data
+
+CSV file organization
+
+Tasks and Execution
+
+Task 1: Dataset Collection
+
+Searched publicly available housing datasets.
+
+Selected dataset with numerical pricing information.
+
+Ensured dataset size is sufficient for experimentation.
+
+Task 2: Feature and Target Identification
+
+Mapped each column to:
+
+Input feature
+
+Target variable
+
+Removed irrelevant columns conceptually.
+
+Task 3: Dataset Analysis
+Performed initial inspection:
+
+Row count (dataset size)
+
+Column count
+
+Data types
+
+Presence of missing values
+
+Presence of extreme values
+
+Issues Identified
+
+Possible missing values
+
+Features on different numeric scales
+
+Potential outliers
