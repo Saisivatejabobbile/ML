@@ -1,0 +1,46 @@
+Day 5: Data Visualization & Preprocessing
+•	Importance of data visualization
+•	Matplotlib basics (line, bar, scatter)
+•	Understanding data distribution
+•	Basic preprocessing concepts
+•	Task 1: Plot relationships between features and target
+•	Task 2: Identify outliers or patterns from plots
+•	Task 3: Finalize features for model training
+
+
+📅 Day 5 – Data Visualization & Preprocessing
+Concepts Covered
+
+Importance of visual analysis
+
+Feature-target relationships
+
+Distribution analysis
+
+Outlier impact
+
+Tasks and Execution
+
+Task 1: Visualization
+
+Plotted scatter graphs for:
+
+Area vs Price
+
+Bedrooms vs Price
+
+Task 2: Pattern Detection
+
+Observed positive correlation between area and price.
+
+Detected data spread and noise.
+
+Task 3: Feature Finalization
+
+Retained features with visible influence on price.
+
+Considered removing weak or redundant features.
+
+Validation
+
+Ensured selected features align with regression assumptions.
