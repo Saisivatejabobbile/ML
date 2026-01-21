@@ -1,0 +1,46 @@
+Day 7: Logistic Regression & Final Mini Project
+•	When to use Logistic Regression
+•	Binary classification problems
+•	Sigmoid function intuition
+•	Model training using scikit-learn
+•	Task 1: Convert problem into a classification task if applicable
+•	Task 2: Train a Logistic Regression model
+•	Task 3: Compare Linear vs Logistic model results and document finding
+
+
+📅 Day 7 – Logistic Regression & Model Comparison
+Concepts Covered
+
+Regression vs classification
+
+Logistic Regression principles
+
+Sigmoid function behavior
+
+Probability thresholds
+
+Tasks and Execution
+
+Task 1: Problem Transformation
+
+Converted continuous prices into binary classes (e.g., high/low).
+
+Task 2: Logistic Regression Training
+
+Trained classifier on transformed data.
+
+Generated probability outputs.
+
+Task 3: Model Comparison
+
+Linear Regression:
+
+Predicts exact price
+
+Logistic Regression:
+
+Predicts category
+
+Validation
+
+Verified correct model usage per problem type.
