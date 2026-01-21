@@ -1,0 +1,51 @@
+Day 3: NumPy Essentials for ML
+•	Why NumPy is used in ML
+•	NumPy arrays vs Python lists
+•	Array creation, shape, indexing
+•	Basic mathematical operations
+•	Task 1: Load dataset values into NumPy arrays
+•	Task 2: Perform basic operations (mean, min, max) on numerical columns
+
+
+📅 Day 3 – NumPy Essentials for ML
+Concepts Covered
+
+NumPy arrays vs Python lists
+
+Vectorization benefits
+
+Memory efficiency
+
+Numerical computation for ML
+
+Tasks and Execution
+
+Task 1: NumPy Data Loading
+
+Extracted numerical columns from dataset.
+
+Converted them into NumPy arrays.
+
+Task 2: Statistical Analysis
+
+Computed:
+
+Mean → central tendency
+
+Min / Max → value range
+
+Used results to understand scale differences.
+
+Task 3: Feature and Target Construction
+
+Created feature matrix X.
+
+Created target vector y.
+
+Verified dimensions using .shape.
+
+Validation
+
+Ensured alignment between feature rows and target values.
+
+Confirmed compatibility with scikit-learn.
